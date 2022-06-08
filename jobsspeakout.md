@@ -1,8 +1,8 @@
 # 乔布斯采访
-Interview Date：7 Mar 2008
-Publication：Fortune
-Interviewer：Betsy Morris
-[原文](https://allaboutstevejobs.com/verbatim/interviews/fortune_2008)
+- Interview Date：7 Mar 2008
+- Publication：Fortune
+- Interviewer：Betsy Morris
+- [原文](https://allaboutstevejobs.com/verbatim/interviews/fortune_2008)
 ---
 
 #### 关于iPhone的起源
