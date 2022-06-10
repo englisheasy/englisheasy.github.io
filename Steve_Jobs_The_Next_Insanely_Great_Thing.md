@@ -1,4 +1,9 @@
-## Steve Jobs: The Next Insanely Great Thing
+# 乔布斯：下一个疯狂伟大的事情
+###### Interview Date：1 Feb 1996
+###### Publication：wired
+###### Interviewer：Gary  Wolf
+###### [原文](https://www.wired.com/1996/02/jobs-2/)
+---
 
 #### STEVE JOBS HAS been right twice. The first time we got Apple. The second time we got NeXT. 
 The Macintosh ruled. NeXT tanked. Still, Jobs was right both times. Although NeXT failed to sell its elegant and infamously buggy black box, Jobs's fundamental insight---that personal computers were destined to be connected to each other and live on networks---was just as accurate as his earlier prophecy that computers were destined to become personal appliances.
