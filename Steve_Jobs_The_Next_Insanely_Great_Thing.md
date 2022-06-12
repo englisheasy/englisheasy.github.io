@@ -21,15 +21,13 @@
 
 在过去，乔布斯是一个美国教育的传道者，为了让学校有计算机，努力地工作，苹果公司和教育工作者的合作关系对建立Macintosh的市场起了关键作用，然而NeXT最初设计的工具主要服务学生和老师，现在，乔布斯直接了当地总结 ，技术不能解决我们教育系统的问题，他的新方案确定是低技术。
 
-#### The new Steve Jobs scoffs at the naïve idealism of Web partisans who believe the new medium will turn every person into a publisher. The heart of the Web, he said, will be commerce, and the heart of commerce will be corporate America serving custom products to individual consumers. The implicit message of the Macintosh, as unforgettably expressed in the great "1984" commercial, was Power to the People. Jobs's vision of Web objects serves a different mandate: Give the People What They Want.
+新一代的乔布斯嘲笑Web支持者幼稚的理想主义相信新媒体将让每个人成为出版商，他说Web的核心将是商业，商业的核心将是美国公司服务消费者的定制产品。麦金塔电脑暗含的信息正如“1984”伟大的广告中表述的那样令人难忘，是人民的力量。乔布斯对Web目标的愿景有着不同的使命:给人们他们想要的。
 
-Wired: The Macintosh computer set the tone for 10 years. Do you think the Web may be setting the tone today?
+《连线》杂志：麦金塔电脑奠定了10年的基调。你认为网络会成为今天的基调吗?乔布斯：台式电脑行业已经死。创新实际上已经停止，微软几乎没有什么创新。这就结束了。苹果失去了。台式电脑的行业已经进入了黑暗的时代，在接下来的10年里，它将处于黑暗时代，或者只剩下这十年。
 
-Jobs: The desktop computer industry is dead. Innovation has virtually ceased. Microsoft dominates with very little innovation. That's over. Apple lost. The desktop market has entered the dark ages, and it's going to be in the dark ages for the next 10 years, or certainly for the rest of this decade.
+像在微处理器出来之前，IBM驱动了大量计算机行业创新，最终因为微软自满和可能一些新事物出来而崩溃，但直到那发生，直到一些基础重要技术改变，它就结束。
 
-It's like when IBM drove a lot of innovation out of the computer industry before the microprocessor came along. Eventually, Microsoft will crumble because of complacency, and maybe some new things will grow. But until that happens, until there's some fundamental technology shift, it's just over.
-
-The most exciting things happening today are objects and the Web. The Web is exciting for two reasons. One, it's ubiquitous. There will be Web dial tone everywhere. And anything that's ubiquitous gets interesting. Two, I don't think Microsoft will figure out a way to own it. There's going to be a lot more innovation, and that will create a place where there isn't this dark cloud of dominance.
+当前出现的最兴奋的事情是面向对象和web技术，web令人兴奋的两个原因：一，它是无处不在的，到处都是web拨号音，无处不在的获取任何兴趣的事情；二我不认为微软将找到一种方式拥有它。将有更多创新出现，那将创造一个地方，这里没有主宰的黑暗云网络
 
 Why do you think the Web has sprouted so fast?
 
