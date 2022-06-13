@@ -29,18 +29,14 @@
 
 当前出现的最兴奋的事情是面向对象和web技术，web令人兴奋的两个原因：一，它是无处不在的，到处都是web拨号音，无处不在的获取任何兴趣的事情；二我不认为微软将找到一种方式拥有它。将有更多创新出现，那将创造一个地方，这里没有主宰的黑暗云网络
 
-Why do you think the Web has sprouted so fast?
+你认为为什么网络发展得这么快?
 
-One of the major reasons for the Web's proliferation so far is its simplicity. A lot of people want to make the Web more complicated. They want to put processing on the clients, they want to do this and that. I hope not too much of that happens too quickly.
+到目前为止，网络发展比较快的一个主要原因之一是因为简单。很多人想要让网络变得更复杂。他们想对客户进行处理，他们想要做这个做那个。我希望这种事情不要发生太快。它很像旧的大型机计算环境，Web浏览器就像一个哑终端，而Web服务器就像完成所有处理的主机。这种简单的模式已经产生了深远的影响开始变得无处不在。
 
-It's much like the old mainframe computing environment, where a Web browser is like a dumb terminal and the Web server is like the mainframe where all the processing's done. This simple model has had a profound impact by starting to become ubiquitous.
+面向对象？
 
-And objects?
-
-When I went to Xerox PARC in 1979, I saw a very rudimentary graphical user interface. It wasn't complete. It wasn't quite right. But within 10 minutes, it was obvious that every computer in the world would work this way someday. And you could argue about the number of years it would take, and you could argue about who would be the winners and the losers, but I don't think you could argue that every computer in the world wouldn't eventually work this way.
-Objects are the same way. Once you understand objects, it's clear that all software will eventually be written using objects. Again, you can argue about how many years it will take, and who the winners and losers will be during this transition, but you can't argue about the inevitability of this transition.
-
-Objects are just going to be the way all software is going to be written in five years or---pick a time. It's so compelling. It's so obvious. It's so much better that it's just going to happen.
+当我1979年去Xerox PARC时，我看见了一个非常基础的图形用户界面，它不是完整的，它不是相当正确，但在10分钟里，某一天世界上每一个计算机将像这样方式运行，那是十分显然的，你能争论它将需要一些年，你能争论谁是胜者和输者，但你争论世界上每一台计算机将最终不像这样方式工作，我不认为这样。面向对象是类似的，一旦你理解面向对象，所有软件将最终用面向对象方式实现，它是清晰的。再说一遍，你能争论它将需要许多年，在过渡期谁是胜者和输者，但你不能争论过渡的不可逆转性。
+面向对象编程仅仅将是在五年内所有软件将被用到的，或其他时间，那是令人信服的，它是那么显然的，那将发生是非常好的
 
 How will objects affect the Web?
 
