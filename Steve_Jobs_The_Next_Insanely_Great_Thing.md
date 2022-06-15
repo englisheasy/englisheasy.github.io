@@ -38,55 +38,31 @@
 当我1979年去Xerox PARC时，我看见了一个非常基础的图形用户界面，它不是完整的，它不是相当正确，但在10分钟里，某一天世界上每一个计算机将像这样方式运行，那是十分显然的，你能争论它将需要一些年，你能争论谁是胜者和输者，但你争论世界上每一台计算机将最终不像这样方式工作，我不认为这样。面向对象是类似的，一旦你理解面向对象，所有软件将最终用面向对象方式实现，它是清晰的。再说一遍，你能争论它将需要许多年，在过渡期谁是胜者和输者，但你不能争论过渡的不可逆转性。
 面向对象编程仅仅将是在五年内所有软件将被用到的，或其他时间，那是令人信服的，它是那么显然的，那将发生是非常好的
 
-How will objects affect the Web?
+对象怎么影响Web？
 
-Think of all the people now bringing goods and services directly to customers through the Web. Every company that wants to vend its goods and services on the Web is going to have a great deal of custom-application software to write. You're not just going to be able to buy something off the shelf. You're going to have to hook the Web into your order-management systems, your collection systems. It's going to be an incredible amount of work.
+想想现在全民都直接通过Web把商品和服务给到客户。每个想要通过Web推销商品和服务的公司，都打算编写大量的定制应用软件。你不仅能买到现成的东西。您必须将Web连接到您的订单管理系统，你收集系统。这将是一个难以置信的工作量.
+需要编写的应用程序的数量呈指数增长,除非我们能找到一种方法在十分之一的时间内写出它们，否则我们就完蛋了。
+对象的最终结果,这是软件的重新包装,我们可以用其他方式开发应用仅仅要10%-20%时间开发软件。
 
-The number of applications that need to be written is growing exponentially. Unless we can find a way to write them in a tenth of the time, we're toast.
+我们看见人们通过拥有操作系统如何赢得桌面战争，人们如何在web上胜利？
+web有三部分，第一是客户端，第二是管道，第三是服务器。在客户端，有浏览器软件，从挣钱角度看，它看起来任何人在浏览器软件端都不会胜利，因为它将是免费的，然后有对应硬件，一些人可能想出一些十分兴趣的web终端，然后卖一些硬件。
+在管道方面，ROBCs将胜利，在接下来几月，你将看到他们将提供每月25美元的服务，你得到捆绑的ISDN，你得到挂到PC上的小盒子，你得到一个将非常流行的网络账号，ROBCs将是让你在web上的公司，通过做这些他们有既定的利息，他们想利用光纤公司，他们想保留客户，这是马上发生的事情，你不能看到它，它像树根一样在地下，它将长大，一些年内你将看到这颗大树。
+关于服务器市场，像sun公司这样的公司正在做一个卖服务器的非常好的商业，但关于web服务软件，没有一家公司有超过单位数的市场份额，netscape公司艰难地卖任何服务，因为你能得到免费的公共域名软件，它是非常好的，一些人说它比买的服务更好，为了帮助人们建web应用，我们公司将在简单的web服务上面存放元素，web应用马上将是瓶颈的地方，创建主要贡献然后挣钱是真正的一些机会，那是所有关于web的事情。
 
-The end result of objects---this repackaging of software---is that we can develop applications with only about 10 to 20 percent of the software development required any other way.
+这里还有其他机会吗？
 
-We see how people won the battle of the desktop by owning the operating system. How does one win on the Web?
+你认为谁将是Web主要受益者？谁赢得最多？
+人们谁有些东西-出售！分享，出售！
+你的意思是出版?这不仅仅出版。这是商业。人们打算停止去很多商店。他们打算在Web上买东西。
+Web作为最大的民主化怎么样？
+如果你看看我这辈子做过的事情，他们有民主化的元素。Web是一个不可置信的民主化。一个小公司可以看起来像大公司一样，就像大公司一样容易在Web上访问。大公司花费数亿美元建立分销渠道，Web将完全消除这种优势。
 
-There are three parts to the Web. One is the client, the second is the pipes, and the third is the servers.
+下一周期民主进程结束后，经济景象会怎样？
 
-On the client side, there's the browser software. In the sense of making money, it doesn't look like anybody is going to win on the browser software side, because it's going to be free. And then there's the typical hardware. It's possible that some people could come out with some very interesting Web terminals and sell some hardware.
-
-On the pipe side, the RBOCs are going to win. In the coming months, you're going to see a lot of them offering a service for under $25 a month. You get ISDN strung into your den, you get a little box to hook it into your PC, and you get an Internet account, which is going to be very popular. The RBOCs are going to be the companies that get you on the Web. They have a vested interest in doing that. They'd like to screw the cable companies; they'd like to preserve the customers. This is all happening right now. You don't see it. It's under the ground like the roots of a tree, but it's going to spring up and you're going to see this big tree within a few years.
-
-As for the server market, companies like Sun are doing a nice business selling servers. But with Web server software, no one company has more than a single-digit market share yet. Netscape sells hardly any, because you can get free public-domain software and it's very good. Some people say that it's even better than what you can buy.
-Our company decided that people are going to layer stuff above this very simple Web server to help others build Web applications, which is where the bottleneck is right now. There's some real opportunity there for making major contributions and a lot of money. That's what WebObjects is all about.
-
-What other opportunities are out there?
-
-Who do you think will be the main beneficiary of the Web? Who wins the most?
-
-People who have something -
-
-To sell!
-
-To share.
-
-To sell!
-
-You mean publishing?
-
-It's more than publishing. It's commerce. People are going to stop going to a lot of stores. And they're going to buy stuff over the Web!
-
-What about the Web as the great democratizer?
-
-If you look at things I've done in my life, they have an element of democratizing. The Web is an incredible democratizer. A small company can look as large as a big company and be as accessible as a big company on the Web. Big companies spend hundreds of millions of dollars building their distribution channels. And the Web is going to completely neutralize that advantage.
-
-What will the economic landscape look like after that democratic process has gone through another cycle?
-
-The Web is not going to change the world, certainly not in the next 10 years. It's going to augment the world. And once you're in this Web-augmented space, you're going to see that democratization takes place.
-
-The Web's not going to capture everybody. If the Web got up to 10 percent of the goods and services in this country, it would be phenomenal. I think it'll go much higher than that. Eventually, it will become a huge part of the economy.
-
-Rethinking Revolution
-What's the biggest surprise this technology will deliver?
-
-The problem is I'm older now, I'm 40 years old, and this stuff doesn't change the world. It really doesn't.
+web不将改变世界，确定不在下一个十年，它将增加世界广度，一旦你在web增量空间里面，你将看到民主出现。web不将捕捉到每人，如果web将占有这个国家商品和服务市场份额的百分之10以上，它将是惊人的，我认为将超过更多，甚至，它将成为国家经济的很大一部分。
+重新思考革命
+这技术将带来最大惊讶是什么？
+问题是，我老了，我40岁了，这事情不能改变世界，它真的不会。
 
 That's going to break people's hearts.
 
