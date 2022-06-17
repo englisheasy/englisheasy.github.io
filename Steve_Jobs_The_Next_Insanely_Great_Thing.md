@@ -67,38 +67,18 @@ web不将改变世界，确定不在下一个十年，它将增加世界广度�
 
 问题是，我老了，我40岁了，这事情不能改变世界，它真的不会。
 
-That's going to break people's hearts.
+这将伤透人们的心。
 
-I'm sorry, it's true. Having children really changes your view on these things. We're born, we live for a brief instant, and we die. It's been happening for a long time. Technology is not changing it much---if at all.
+很抱歉，这是真的。有了孩子真的会改变你对这些事情的观点，我们出生，我们活在短暂的瞬间，然后我们死去。它已经发生了很长时间了。如果有的话，技术没有改变太多。
 
-These technologies can make life easier, can let us touch people we might not otherwise. You may have a child with a birth defect and be able to get in touch with other parents and support groups, get medical information, the latest experimental drugs. These things can profoundly influence life. I'm not downplaying that. But it's a disservice to constantly put things in this radical new light---that it's going to change everything. Things don't have to change the world to be important.
+这些技术可以让生活更容易，可以让我们接触到我们不可能接触到的人。你可能有一个先天性缺陷的孩子并能够接触到其他家长和支持团，获得药物信息，最新的实验药物。这些事情可以对我们的生活产生深远的影响。我没有轻视这点。但是这是一种伤害不断的用这种激进的新视角看待事物，它将改变任何事情。重要的事情不一定要改变世界。Web将会非常重要，这将是改变几百万人生活的事情吗？不，我的意思是可能吧。但是这时候不能确定是对的。它可能慢慢的传染给人们。这个肯定不会像人们第一次看到电视那样。他肯定不会像内布拉斯加州人第一次听到广播那样深远。它将不会那么深远。
 
-The Web is going to be very important. Is it going to be a life-changing event for millions of people? No. I mean, maybe. But it's not an assured Yes at this point. And it'll probably creep up on people.
+然后web怎样影响我们的社会？
 
-It's certainly not going to be like the first time somebody saw a television. It's certainly not going to be as profound as when someone in Nebraska first heard a radio broadcast. It's not going to be that profound.
-Then how will the Web impact our society?
+我们生活在信息经济中，但我不相信生活在信息社会中，人们现在比他们经常做的事情思考更少，主要原因是电视，人们阅读更少，确定他们现在思考更少，所以，我没发现大部分用web的人们得到更多信息，我们已经在信息泛滥中，与web分发出来多少信息无关，总之大部分人能看到远远更多信息，他们消化吸收少。
+问题是在电视上？
 
-We live in an information economy, but I don't believe we live in an information society. People are thinking less than they used to. It's primarily because of television. People are reading less and they're certainly thinking less. So, I don't see most people using the Web to get more information. We're already in information overload. No matter how much information the Web can dish out, most people get far more information than they can assimilate anyway.
-
-The problem is television?
-
-When you're young, you look at television and think, There's a conspiracy. The networks have conspired to dumb us down. But when you get a little older, you realize that's not true. The networks are in business to give people exactly what they want. That's a far more depressing thought. Conspiracy is optimistic! You can shoot the bastards! We can have a revolution! But the networks are really in business to give people what they want. It's the truth.
-
-So Steve Jobs is telling us things are going to continue to get worse.
-
-They are getting worse! Everybody knows that they're getting worse! Don't you think they're getting worse?
-
-I do, but I was hoping I could come here and find out how they were going to get better. Do you really believe that the world is getting worse? Or do you have a feeling that the things you're involved with are making the world better?
-
-No. The world's getting worse. It has gotten worse for the last 15 years or so. Definitely. For two reasons. On a global scale, the population is increasing dramatically and all our structures, from ecological to economic to political, just cannot deal with it. And in this country, we seem to have fewer smart people in government, and people don't seem to be paying as much attention to the important decisions we have to make.
-
-But you seem very optimistic about the potential for change.
-
-I'm an optimist in the sense that I believe humans are noble and honorable, and some of them are really smart. I have a very optimistic view of individuals. As individuals, people are inherently good. I have a somewhat more pessimistic view of people in groups. And I remain extremely concerned when I see what's happening in our country, which is in many ways the luckiest place in the world. We don't seem to be excited about making our country a better place for our kids.
-
-The people who built Silicon Valley were engineers. They learned business, they learned a lot of different things, but they had a real belief that humans, if they worked hard with other creative, smart people, could solve most of humankind's problems. I believe that very much.
-
-I believe that people with an engineering point of view as a basic foundation are in a pretty good position to jump in and solve some of these problems. But in society, it's not working. Those people are not attracted to the political process. And why would somebody be?
+当你年轻时，你看电视然后思考，这里有一个阴谋，网络协作浇灭我们，但是当你长大一点时，你意识到那不是真实的，网络是一个商业，它为了精确地给人们想要的事情，那是一个十分消极的思考，这个阴谋说的还乐观，你能骂这个混蛋，我们能有一个革命，但是真正地，网络是一个商业，为了给人们想要的事情，那是真的。
 
 Could technology help by improving education?
 
