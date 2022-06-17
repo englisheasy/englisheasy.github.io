@@ -80,6 +80,21 @@ web不将改变世界，确定不在下一个十年，它将增加世界广度�
 
 当你年轻时，你看电视然后思考，这里有一个阴谋，网络协作浇灭我们，但是当你长大一点时，你意识到那不是真实的，网络是一个商业，它为了精确地给人们想要的事情，那是一个十分消极的思考，这个阴谋说的还乐观，你能骂这个混蛋，我们能有一个革命，但是真正地，网络是一个商业，为了给人们想要的事情，那是真的。
 
+所以史蒂夫·乔布斯告诉我们，情况会继续恶化。
+
+情况越来越糟了!每个人都知道他们在变坏!你不觉得情况越来越糟了吗?
+
+我知道，但我希望我能来这里，看看他们怎样才能好起来。你真的相信世界正在变得更糟吗?或者你有一种感觉，你所参与的事情正在让世界变得更好?
+
+不。世界越来越糟糕。在过去的15年里，情况变得更糟了。肯定。有两个原因。在全球范围内，人口急剧增长，而我们所有的结构，从生态到经济到政治，都无法应对。在这个国家，我们的政府中聪明的人似乎越来越少，人们似乎不太关注我们必须做出的重要决定。
+
+但你好像对这个改变的潜力非常乐观
+
+在这样情景我是一个乐观者，我相信人类是高尚的和受尊敬的，其中一些人是真正的聪明，我有一个非常乐观的个人看法，作为个人，人们本身是好的，我对集体中的人有某种程度上更悲观的看法，我们国家在许多方面在世界上是最幸运的地方，当我看见我们国家发生的事情，我一直十分关注，对于使我们国家为孩子有一个更好的地方，我们好像不兴奋的。
+
+建造硅谷的人是工程师，他们学习商业，他们学习许多不同知识，但他们那些人有一个真正的信仰，如果他们和其他有创意且聪明的人一起努力工作，他们能解决大部分人类的问题，我十分相信这一点。
+我相信带着基本的工程师视角的人们是在一个非常好的位置，能进来解决那些问题部分，但是在社会中，这行不通，那些人对政治事务没有吸引力，为什么一些人对政治事务会有吸引力
+
 Could technology help by improving education?
 
 I used to think that technology could help education. I've probably spearheaded giving away more computer equipment to schools than anybody else on the planet. But I've had to come to the inevitable conclusion that the problem is not one that technology can hope to solve. What's wrong with education cannot be fixed with technology. No amount of technology will make a dent.
