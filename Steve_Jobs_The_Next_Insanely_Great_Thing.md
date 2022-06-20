@@ -95,25 +95,6 @@ web不将改变世界，确定不在下一个十年，它将增加世界广度�
 建造硅谷的人是工程师，他们学习商业，他们学习许多不同知识，但他们那些人有一个真正的信仰，如果他们和其他有创意且聪明的人一起努力工作，他们能解决大部分人类的问题，我十分相信这一点。
 我相信带着基本的工程师视角的人们是在一个非常好的位置，能进来解决那些问题部分，但是在社会中，这行不通，那些人对政治事务没有吸引力，为什么一些人对政治事务会有吸引力
 
-Could technology help by improving education?
-
-I used to think that technology could help education. I've probably spearheaded giving away more computer equipment to schools than anybody else on the planet. But I've had to come to the inevitable conclusion that the problem is not one that technology can hope to solve. What's wrong with education cannot be fixed with technology. No amount of technology will make a dent.
-
-It's a political problem. The problems are sociopolitical. The problems are unions. You plot the growth of the NEA [National Education Association] and the dropping of SAT scores, and they're inversely proportional. The problems are unions in the schools. The problem is bureaucracy. I'm one of these people who believes the best thing we could ever do is go to the full voucher system.
-
-I have a 17-year-old daughter who went to a private school for a few years before high school. This private school is the best school I've seen in my life. It was judged one of the 100 best schools in America. It was phenomenal. The tuition was $5,500 a year, which is a lot of money for most parents. But the teachers were paid less than public school teachers---so it's not about money at the teacher level. I asked the state treasurer that year what California pays on average to send kids to school, and I believe it was $4,400. While there are not many parents who could come up with $5,500 a year, there are many who could come up with $1,000 a year.
-
-If we gave vouchers to parents for $4,400 a year, schools would be starting right and left. People would get out of college and say, "Let's start a school." You could have a track at Stanford within the MBA program on how to be the businessperson of a school. And that MBA would get together with somebody else, and they'd start schools. And you'd have these young, idealistic people starting schools, working for pennies.
-
-They'd do it because they'd be able to set the curriculum. When you have kids you think, What exactly do I want them to learn? Most of the stuff they study in school is completely useless. But some incredibly valuable things you don't learn until you're older---yet you could learn them when you're younger. And you start to think, What would I do if I set a curriculum for a school?
-
-God, how exciting that could be! But you can't do it today. You'd be crazy to work in a school today. You don't get to do what you want. You don't get to pick your books, your curriculum. You get to teach one narrow specialization. Who would ever want to do that?
-
-These are the solutions to our problems in education. Unfortunately, technology isn't it. You're not going to solve the problems by putting all knowledge onto CD-ROMs. We can put a Web site in every school---none of this is bad. It's bad only if it lulls us into thinking we're doing something to solve the problem with education.
-Lincoln did not have a Web site at the log cabin where his parents home-schooled him, and he turned out pretty interesting. Historical precedent shows that we can turn out amazing human beings without technology. Precedent also shows that we can turn out very uninteresting human beings with technology.
-
-It's not as simple as you think when you're in your 20s---that technology's going to change the world. In some ways it will, in some ways it won't.
-
 What's good for business is good for the Web
 If you go back five years, the Web was hardly on anybody's horizon. Maybe even three years ago, it wasn't really being taken seriously by many people. Why is the sudden rise of the Web so surprising?
 
