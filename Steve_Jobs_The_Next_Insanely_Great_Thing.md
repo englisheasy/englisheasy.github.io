@@ -128,54 +128,29 @@ web让我想起PC工业的早期，没有人真正知道任何事，没有专家
 让我们尝试另一方面，在web服务器中你可能想做什么，我们思考四件事情：
 一是简单发布，那是百分之九十九的人今天在做的事情，如果那是你想做的所有，你能得到一百个免费线下的web服务软件其中一个，仅仅用它，没问题，它用起来不错，因为你不用在web上做信用卡交易，安全不是很大的问题。
 
-What's good for business is good for the Web
-If you go back five years, the Web was hardly on anybody's horizon. Maybe even three years ago, it wasn't really being taken seriously by many people. Why is the sudden rise of the Web so surprising?
+下一件事情你可以做的是复杂的发布。人们开始做复杂的发布在Web非常简单的形式。这将会完全爆发在未来的12-18个月内。这是网络的下一个重要的阶段。你看过联邦快递网站哪里可以跟踪包裹的位置吗？联邦快递公司花了大约四个月的时间来编写这个程序，而且非常简单。四个月。如果能在四天、两天或一天内做到这一点就好了。
+广告。第三件事是商业，这比复杂的出版更难因为你必须将网络与订单管理系统联系起来，您的收集系统，诸如此类的事情。我想我们还有两年的时间。但这也将是巨大的。
+最后是内部网站。而不是互联网，这是内部网，而不是编写多个不同版本的应用程序供内部使用，一个用于Mac，一个用于PC，一个用于Unix。人们可以编写单一版本，并拥有跨平台产品。每个人都使用网络。我们将看到，公司内部有几十台——如果不是几百台的话——的Web服务器，作为与自己进行通信的手段。
 
-Isn't it great? That's exactly what's not happening in the desktop market.
+web四个功能的其中三个需要定制应用，那是我们使用面向对象真正做好的事情。我们的新产品，web对象，让你写web应用快十倍。
 
-Why was everyone, including NeXT, surprised, though?
+web怎样影响经济？
 
-It's a little like the telephone. When you have two telephones, it's not very interesting. And three is not very interesting. And four. And, well, a hundred telephones perhaps becomes slightly interesting. A thousand, a little more. It's probably not until you get to around ten thousand telephones that it really gets interesting.
+我们居住在一个信息经济社会，问题是信息不可能获取到，至少在正确地点和正确时间。
+联邦快递战胜竞争对手的原因是包裹追踪系统，对于这个公司把包裹追踪系统引进web上是现象级的，我一直用它追踪我的快递，那是十分伟大的，十分欣慰的，从大部分公司获取这样信息是不可能的。
+但提供信息也是十分困难的，关于代理商，大量钱花在存货清单上，数十亿美元，存货清单不是好事情，存货清单关系到大量现金，破坏份子能看到的，那是老套的，那需要大量时间管理，你想要的汽车，想要的颜色，难道一直没有吗，所以他们到处买卖马，避免存货清单难道不是十分好吗，正好有一辆白色车驾驶，可能你看到其它颜色光碟，然后你预定汽车，在一周内收到它
 
-Many people didn't foresee, couldn't imagine, what it would be like to have a million, or a few tens of thousands of Web sites. And when there were only a hundred, or two hundred, or when they were all university ones, it just wasn't very interesting. Eventually, it went beyond this critical mass and got very interesting very fast. You could see it. And people said, "Wow! This is incredible."
+今天一个经销商说，我们一周内拿不到你的车。需要三个月的时间。你说，等一下，我想订一辆粉色凯迪拉克，配紫色真皮座椅。为什么我不能在一周内拿到?他说，我们一定要成功。你说，你今天做凯迪拉克吗？你今天为什么不画粉色的呢?他说我们没有粉红色的油漆。我们的油漆供应商需要一些交货时间。你说:“你的油漆供应商今天在生产油漆吗?他说是的但我们告诉他的时候，已经过去两周了。你会问:“那真皮座椅呢?”他说，“天啊，紫色皮革。要三个月才能拿到。
+你顺着这个往回走，你会发现，重要的不是制造东西需要多长时间;它是信息在系统中流动所花费的时间。然而电子设备以光速移动——或者说非常接近光速。因此，将信息推送到系统中有时是非常令人沮丧的，网络将会是推送信息和获取信息两方面的突破。
 
-The Web reminds me of the early days of the PC industry. No one really knows anything. There are no experts. All the experts have been wrong. There's a tremendous open possibility to the whole thing. And it hasn't been confined, or defined, in too many ways. That's wonderful.
+你的web观点是共同持有观点中一个可供选择的，就是个人出版的复兴，人们无法通过广播媒体出版，有机会通过web说些什么。
+这没有什么错误，web是伟大的，因为人们不能欺骗你任何事情，你能获取到信息。他们能使自己可利用，但如果没人想浏览他们的网站，那也行。老实说，大部分人要说什么的，现在能发表。
+但当我问一个人的生活怎样被那些技术改变时，对定制化产品发布信息使末端不一样，你将去商店，有许多不同的卫生纸，一些上面有郁金香，一些没有，你在这儿进行选择，你想要一个带有郁金香的卫生纸。
 
-There's a phrase in Buddhism,"Beginner's mind." It's wonderful to have a beginner's mind.
+我想要一个没有郁金香的卫生纸。
 
-Earlier, you seemed to say there's a natural affinity between the Web and objects. That these two things are going to come together and make something very new, right?
 
-Let's try this another way. What might you want to do on a Web server? We can think of four things:
 
-One is simple publishing. That's what 99 percent of the people do today. If that's all you want to do, you can get one of a hundred free Web-server software packages off the Net and just use it. No problem. It works fine. Security's not a giant issue because you're not doing credit card transactions over the Web.
-
-The next thing you can do is complex publishing. People are starting to do complex publishing on the Web---very simple forms of it. This will absolutely explode in the next 12 to 18 months. It's the next big phase of the Web. Have you seen the Federal Express Web site where you can track a package? It took Federal Express about four months to write that program---and it's extremely simple. Four months. It would be nice to do that in four days, or two days, or one day.
-The third thing is commerce, which is even harder than complex publishing because you have to tie the Web into your order-management system, your collection system, things like that. I think we're still two years away. But that's also going to be huge.
-
-Last is internal Web sites. Rather than the Internet, it's intranet. Rather than write several different versions of an application for internal consumption---one for Mac, one for PC, one for Unix---people can write a single version and have a cross-platform product. Everybody uses the Web. We're going to see companies have dozens---if not hundreds---of Web servers internally as a means to communicate with themselves.
-
-Three of those four functions of the Web require custom applications. And that's what we do really well with objects. Our new product, WebObjects, allows you to write Web applications 10 times faster.
-
-How does the Web affect the economy?
-
-We live in an information economy. The problem is that information's usually impossible to get, at least in the right place, at the right time.
-
-The reason Federal Express won over its competitors was its package-tracking system. For the company to bring that package-tracking system onto the Web is phenomenal. I use it all the time to track my packages. It's incredibly great. Incredibly reassuring. And getting that information out of most companies is usually impossible.
-
-But it's also incredibly difficult to give information. Take auto dealerships. So much money is spent on inventory---billions and billions of dollars. Inventory is not a good thing. Inventory ties up a ton of cash, it's open to vandalism, it becomes obsolete. It takes a tremendous amount of time to manage. And, usually, the car you want, in the color you want, isn't there anyway, so they've got to horse-trade around. Wouldn't it be nice to get rid of all that inventory? Just have one white car to drive and maybe a laserdisc so you can look at the other colors. Then you order your car and you get it in a week.
-
-Today a dealer says, "We can't get your car in a week. It takes three months." And you say, "Now wait a minute, I want to order a pink Cadillac with purple leather seats. Why can't I get that in a week?" And he says, "We gotta make it." And you say, "Are you making Cadillacs today? Why can't you paint a pink one today?" And he says, "We didn't know you wanted a pink one." And you say, "OK. I'm going to tell you I want a pink one now." And he says, "We don't have any pink paint. Our paint supplier needs some lead time on that paint.' And you say, "Is your paint supplier making paint today?" And he says, "Yeah, but by the time we tell him, it takes two weeks." And you say, "What about leather seats?" And he says, "God, purple leather. It'll take three months to get that."
-
-You follow this back, and you find that it's not how long it takes to make stuff; it's how long it takes the information to flow through the system. And yet electronics move at the speed of light---or very close to it.
-So pushing information into the system is sometimes immensely frustrating, and the Web is going to be just as much of a breakthrough in terms of pushing information in as getting information out.
-
-Your view about the Web is an alternative to the commonly held one that it's going to be the renaissance of personal publishing. The person who can't get published through the broadcast media will get a chance to say something.
-
-There's nothing wrong with that. The Web is great because that person can't foist anything on you---you have to go get it. They can make themselves available, but if nobody wants to look at their site, that's fine. To be honest, most people who have something to say get published now.
-
-But when we ask how a person's life is changed by these technologies, pushing information to customize products makes marginal differences. You go to the store and there's a lot of different kinds of toilet paper---some have tulips embossed on them and some don't. You're standing there making a choice, and you want the one with the embossed.
-
-I like the ones without the tulips.
 
 I do, too---and unscented. But that customization is relevant to you for that second but in no other way. For the average person, the possibility to participate as a publisher or a producer has a higher value for them.
 
