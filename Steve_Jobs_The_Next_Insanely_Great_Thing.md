@@ -161,45 +161,6 @@ web怎样影响经济？
 让我们假设第二点，许多人在标准web上分享喜好，这给微软提供了一个可选之路，然而对于每个独立的web公司或web出版商，他们有兴趣确保他们的web网站处于领先位置，我知道我们在hotwired网站使用，我们不得不让人们使用hotjava浏览器，我们不得不离开这里--那对保持简单不是好兆头，我们将是把人们强制推向更复杂web的一份子，我们没有选择。
 
 
-I do, too---and unscented. But that customization is relevant to you for that second but in no other way. For the average person, the possibility to participate as a publisher or a producer has a higher value for them.
-
-I don't necessarily agree. The best way to think of the Web is as a direct-to-customer distribution channel, whether it's for information or commerce. It bypasses all middlemen. And, it turns out, there are a lot of middlepersons in this society. And they generally tend to slow things down, muck things up, and make things more expensive. The elimination of them is going to be profound.
-
-Do you think large institutions are going to be the center of the economy, basically driving it as they are now? Some people say the big company is going to fragment.
-
-I don't see that. There's nothing wrong with big companies. A lot of people think big business in America is a bad thing. I think it's a really good thing. Most people in business are ethical, hard-working, good people. And it's a meritocracy. There are very visible examples in business of where it breaks down but it's probably a lot less than in most other areas of society.
-
-You don't think that structural economic changes will tend to shrink the size of these large companies?
-
-Large companies not paying attention to change will get hurt. The Web will be one more area of significant change and those who don't pay attention will get hurt, while those who see it early enough will get rewarded.
-
-The Web is just going to be one more of those major change factors that businesses face every decade. This decade, in the next 10 years, it's going to be the Web. It's going to be one of them.
-
-But doesn't the Web foster more freedom for individuals?
-
-It is a leveling of hierarchy. An individual can put up a Web site that, if they put enough work into it, looks just as impressive as the largest company in the world.
-I love things that level hierarchy, that bring the individual up to the same level as an organization, or a small group up to the same level as a large group with much greater resources. And the Web and the Internet do that. It's a very profound thing, and a very good thing.
-
-Yet the majority of your customers for WebObjects seem to be corporations.
-
-That's correct. And big ones.
-
-Does that cause you any kind of conflict?
-
-Sure. And that's why we're going to be giving our WebObjects software away to individuals and educational institutions for noncommercial use. We've made the decision to give it away.
-
-Shooting the Web in the foot
-What do you think about HotJava and the like?
-
-It's going to take a long time for that stuff to become a standard on the Web. And that may shoot the Web in the foot. If the Web becomes too complicated, too fraught with security concerns, then its proliferation may stop---or slow down. The most important thing for the Web is to stay ahead of Microsoft. Not to become more complicated.
-
-That's very interesting. Java pushes the technology toward the client side. Do you find that wrong?
-
-In my opinion? In the next two years? It's dead wrong. Because it may slow down getting to ubiquity. And anything that slows down the Web reaching ubiquity allows Microsoft to catch up. If Microsoft catches up, it's far worse than the fact the Web can't do word processing. Those things can be fixed later.
-
-There's a window now that will close. If you don't cross the finish line in the next two years, Microsoft will own the Web. And that will be the end of it.
-
-Let's assume for a second that many people share an interest in a standard Web that provides a strong alternative to Microsoft. However, when it comes to every individual Web company or Web publisher, they have an interest in making sure that their Web site stays on the edge. I know we do at HotWired. And so we have to get people into HotJava---we have to stay out there---which doesn't bode well for retaining simplicity. We're going to be part of that force pushing people toward a more complicated Web, because we have no choice.
 
 The way you make it more complex is not by throwing stuff on the client side but by providing value, like Federal Express does, by becoming more complex on the server side.
 
