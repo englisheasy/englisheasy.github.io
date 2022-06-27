@@ -160,53 +160,27 @@ web怎样影响经济？
 现在这个窗口将关闭，如果在未来两年你没有完成，微软将拥有web，那将是web的最后时期。
 让我们假设第二点，许多人在标准web上分享喜好，这给微软提供了一个可选之路，然而对于每个独立的web公司或web出版商，他们有兴趣确保他们的web网站处于领先位置，我知道我们在hotwired网站使用，我们不得不让人们使用hotjava浏览器，我们不得不离开这里--那对保持简单不是好兆头，我们将是把人们强制推向更复杂web的一份子，我们没有选择。
 
+你使他更复杂的方式不是通过把东西扔给客户，而是提供价值，就像德邦快递一样，通过在服务器端变得更复杂。
+我只是很担心如果客户变得聪明，这将做的第一件事就是破坏网络，这不会只是一个标准。会有几个;他们都要打架了；每个人都有自己的问题。所以说起来很容易为什么仅仅一个不应该成为标准。以及一个支离破碎的网络社区将正在微软的下风。
+客户端服务器的关系应该会冷冻两年，我们不应该再进一步了，我们应该顺其自然。
 
+通过集体协议？
 
-The way you make it more complex is not by throwing stuff on the client side but by providing value, like Federal Express does, by becoming more complex on the server side.
+是的，通过集体协议，对的，为了普遍存在。如果Windows能成为普遍存在，现有的web也能做到。
+Windows怎样成为普遍存在的？
+整个行业的利己主义力量使Windows普遍存在，康柏电脑公司和那些不同的卖主使Windows普遍存在，他们不知道怎样拼写软件，但他们想把一些东西放到机器上，这使Windows普遍存在。
 
-I'm just very concerned that if the clients become smart, the first thing this will do is fracture the Web. There won't be just one standard. There'll be several; they're all going to fight; each one has its problems. So it's going to be very easy to say why just one shouldn't be the standard. And a fractured Web community will play right into Microsoft's hands.
+就这么发生了。
 
-The client-server relationship should be frozen for the next two years, and we shouldn't take it much further. We should just let it be.
+不，这是一种算法当每个人的个人利益都一致的时候就开始行动了。我认为同样的自利算法也存在于网络上。每个人都有自己的利益，使这个网络无处不在，而不让任何人拥有它尤其是微软。
+桌面的比喻是否会继续主导我们与计算机的关系，或者还有其他你更喜欢的比喻吗?
 
+为了有一个新的比拟，你真正需要新的议题。
 
-Most Popular
-Pokémon: Scarlet screenshot featuring character running away from large house overlooking the ocean
-CULTURE
-It’s the End of a Pokémon Era
-MEGAN FAROKHMANESH
-Solo Stove Pi Oven
-GEAR
-25 Father’s Day Gifts for the Dependable Dad in Your Life
-MATT JANCER AND GEAR TEAM
-Photo-illustration of handing appearing through hole to steal password asterisk icon
-SECURITY
-Apple Just Killed the Password—for Real This Time
-MATT BURGESS
-knob
-SCIENCE
-A New Kind of Genome Editing Is Here to Fine-Tune DNA
-EMILY MULLIN
-ADVERTISEMENT
+桌面比拟是被发明的，因为，第一，你是一个独立的设备，第二，你不得不管理自己的存储。在桌面世界上，那是非常大的事情，那可能离去，你可能不必须管理你自己的存储，你可能在很长时间之前不能存储很多。
+我不再真正的存储任何东西，我用许多Email和web，使用那些，我没有必要永远管理存储，我从实际事情上，提醒我自己做事情的喜欢方式是发邮件给自己，那是我的存储。
+我没有必要管理我自己的存储，我主要生活在连接的和与独立对抗的世界，这时候，比拟有新的选择。
 
-By collective agreement?
-
-Yeah. By collective agreement. Sure. Go for ubiquity. If Windows can become ubiquitous, so can the existing Web.
-
-How did Windows become ubiquitous?
-
-A force of self-interest throughout the industry made Windows ubiquitous. Compaq and all these different vendors made Windows ubiquitous. They didn't know how to spell software, but they wanted to put something on their machines. That made Windows ubiquitous.
-
-So it just kind of happened.
-
-No, it was sort of an algorithm that got set in motion when everyone's self-interest aligned toward making this happen. And I claim that the same sort of self-interest algorithm is present on the Web. Everyone has a self-interest in making this Web ubiquitous and not having anyone own it---especially not Microsoft.
-
-Is the desktop metaphor going to continue to dominate how we relate to computers, or is there some other metaphor you like better?
-
-To have a new metaphor, you really need new issues. The desktop metaphor was invented because one, you were a stand-alone device, and two, you had to manage your own storage. That's a very big thing in a desktop world. And that may go away. You may not have to manage your own storage. You may not store much before too long.
-
-I don't store anything anymore, really. I use a lot of e-mail and the Web, and with both of those I don't have to ever manage storage. As a matter of fact, my favorite way of reminding myself to do something is to send myself e-mail. That's my storage.
-
-The minute that I don't have to manage my own storage, and the minute I live primarily in a connected versus a stand-alone world, there are new options for metaphors.
 
 GrokKing design
 You have a reputation for making well-designed products. Why aren't more products made with the aesthetics of great design?
