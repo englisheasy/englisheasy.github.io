@@ -150,6 +150,15 @@ web怎样影响经济？
 我想要一个没有郁金香的卫生纸。
 
 
+然而WebObjects 的大多数客户似乎都是公司。
+
+这是正确的和大的一个。这会给你们带来任何种类的冲突吗？当然，这就是为什么我们打算把我们WebObjects赠送给个人和非商业用途的教育机构。我们已经决定把它送人。对着Web的脚开枪，你对HotJava之类的东西有什么看法? 这些东西要成为网络标准还需要很长一段时间。这可能会打到互联网的脚上。如果网络变得太复杂，如果过于担心安全问题，那么它的扩散可能会停止或者减速。互联网最重要的事情是走在微软的前面，不要变得更复杂。
+
+那是十分有趣的，Java向客户端推进技术，你发现那是错误吗？
+
+在我的观点，在未来两年，它是真错了，因为它可能减缓普遍化，让web减缓普遍化的任何事情会被微软抓住机会，如果微软抓住，比web不能处理文本的事实还要糟糕，那些事情后面能确定的。
+现在这个窗口将关闭，如果在未来两年你没有完成，微软将拥有web，那将是web的最后时期。
+让我们假设第二点，许多人在标准web上分享喜好，这给微软提供了一个可选之路，然而对于每个独立的web公司或web出版商，他们有兴趣确保他们的web网站处于领先位置，我知道我们在hotwired网站使用，我们不得不让人们使用hotjava浏览器，我们不得不离开这里--那对保持简单不是好兆头，我们将是把人们强制推向更复杂web的一份子，我们没有选择。
 
 
 I do, too---and unscented. But that customization is relevant to you for that second but in no other way. For the average person, the possibility to participate as a publisher or a producer has a higher value for them.
