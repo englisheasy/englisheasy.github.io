@@ -181,40 +181,12 @@ Windows怎样成为普遍存在的？
 我不再真正的存储任何东西，我用许多Email和web，使用那些，我没有必要永远管理存储，我从实际事情上，提醒我自己做事情的喜欢方式是发邮件给自己，那是我的存储。
 我没有必要管理我自己的存储，我主要生活在连接的和与独立对抗的世界，这时候，比拟有新的选择。
 
+GrokKing设计
 
-GrokKing design
-You have a reputation for making well-designed products. Why aren't more products made with the aesthetics of great design?
+你们通过生产设计良好的产品获得名誉。为什么没有更多的产品由伟大设计的美学制成。
+设计是一个有趣的词。一些人认为设计意味着它看起来如何。但当然，如果你深深的挖掘你真的知道它如何运作。Mac的设计不是它看起来的样子，尽管这只是一部分。首先它是这样运作的。把东西设计得很好，你必须掌握它。你必须真正理解这是怎么回事。它需要激情得投入真正理解一件事，嚼起来，不只是迅速吞下去。大多少人不会花时间这样做。
 
-Design is a funny word. Some people think design means how it looks. But of course, if you dig deeper, it's really how it works. The design of the Mac wasn't what it looked like, although that was part of it. Primarily, it was how it worked. To design something really well, you have to get it. You have to really grok what it's all about. It takes a passionate commitment to really thoroughly understand something, chew it up, not just quickly swallow it. Most people don't take the time to do that.
-
-Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn't really do it, they just saw something. It seemed obvious to them after a while. That's because they were able to connect experiences they've had and synthesize new things. And the reason they were able to do that was that they've had more experiences or they have thought more about their experiences than other people.
-
-Unfortunately, that's too rare a commodity. A lot of people in our industry haven't had very diverse experiences. So they don't have enough dots to connect, and they end up with very linear solutions without a broad perspective on the problem. The broader one's understanding of the human experience, the better design we will have.
+创意是刚好连接起来的事情，当你问创意的人他们怎样做的，他们感到一点点内疚，因为他们没有真正创造它，他们仅仅见过那些事情。他们一会儿能明显看到的，那是因为他们能联系他们有的经验，然后合成新的事物。他们可能做到的原因是，他们已经有更多经验，或他们比其他人关于自己经验思考更多。
+不幸运地是，那是非常少见的人，我们行业大部分人已没有十分多样的经验，所以他们没有足够多的点连接起来。他们对问题没有广阔的视角，最终使用十分线性的方案，人们理解人类经验更广阔，我们将有更好的设计。
 
 
-Most Popular
-Pokémon: Scarlet screenshot featuring character running away from large house overlooking the ocean
-CULTURE
-It’s the End of a Pokémon Era
-MEGAN FAROKHMANESH
-Solo Stove Pi Oven
-GEAR
-25 Father’s Day Gifts for the Dependable Dad in Your Life
-MATT JANCER AND GEAR TEAM
-Photo-illustration of handing appearing through hole to steal password asterisk icon
-SECURITY
-Apple Just Killed the Password—for Real This Time
-MATT BURGESS
-knob
-SCIENCE
-A New Kind of Genome Editing Is Here to Fine-Tune DNA
-EMILY MULLIN
-ADVERTISEMENT
-
-Is there anything well designed today that inspires you?
-
-Design is not limited to fancy new gadgets. Our family just bought a new washing machine and dryer. We didn't have a very good one so we spent a little time looking at them. It turns out that the Americans make washers and dryers all wrong. The Europeans make them much better---but they take twice as long to do clothes! It turns out that they wash them with about a quarter as much water and your clothes end up with a lot less detergent on them. Most important, they don't trash your clothes. They use a lot less soap, a lot less water, but they come out much cleaner, much softer, and they last a lot longer.
-
-We spent some time in our family talking about what's the trade-off we want to make. We ended up talking a lot about design, but also about the values of our family. Did we care most about getting our wash done in an hour versus an hour and a half? Or did we care most about our clothes feeling really soft and lasting longer? Did we care about using a quarter of the water? We spent about two weeks talking about this every night at the dinner table. We'd get around to that old washer-dryer discussion. And the talk was about design.
-
-We ended up opting for these Miele appliances, made in Germany. They're too expensive, but that's just because nobody buys them in this country. They are really wonderfully made and one of the few products we've bought over the last few years that we're all really happy about. These guys really thought the process through. They did such a great job designing these washers and dryers. I got more thrill out of them than I have out of any piece of high tech in years.
