@@ -1,7 +1,9 @@
 ## Steve Jobs: There's Sanity Returning
 
 1998年5月25日 GMT+8 12:00
+
 Share this article
+
 Nobody can doubt the charisma of Steven P. Jobs. The interim CEO of Apple Computer Inc., who returned to the company last July after his ignominious 1985 ouster, has brought back his legendary vision, impatience, and infectious passion for the Macintosh. Jobs spoke to Business Week Correspondent Andy Reinhardt in Apple's stark, fourth-floor boardroom, just after the company rolled out its new software strategy on May 11.
 
 Note: This is an extended, online-only version of the Q&A that appears in the May 25, 1998, issue of Business Week.
