@@ -1,29 +1,19 @@
-## Steve Jobs: There's Sanity Returning
+## 乔布斯: 理智回归
 
-###### Andy Reinhardt
-###### Businessweek
-###### 1998年5月25日 GMT+8 12:00
+###### Interviewer: Andy Reinhardt
+###### publication: Businessweek
+###### Interview Date: 1998年5月25日 GMT+8 12:00
 ---
 
-Share this article
+没有人可以怀疑史蒂文.乔布斯的魅力。这位苹果公司临时的CEO，在1985年被不光彩的解雇后，于去年7月回到了公司，带回了他传奇般的远见、急躁和耐心，对麦金塔电脑的充满了热情。5月11日，苹果公司刚刚推出新的软件战略时，乔布斯在4楼会议室接受《商务周刊》记者安迪.莱茵哈特采访，
 
-Nobody can doubt the charisma of Steven P. Jobs. The interim CEO of Apple Computer Inc., who returned to the company last July after his ignominious 1985 ouster, has brought back his legendary vision, impatience, and infectious passion for the Macintosh. Jobs spoke to Business Week Correspondent Andy Reinhardt in Apple's stark, fourth-floor boardroom, just after the company rolled out its new software strategy on May 11.
+注：这是1998年5月25日《商业周刊》上的问答流出的一个纯网络在线扩展版本
 
-Note: This is an extended, online-only version of the Q&A that appears in the May 25, 1998, issue of Business Week.
+Q:现在你已经介绍了新的而且外观独特的iMac，难道你将做一些激进而不同的产品？
 
-Q: Now that you've introduced the new, bold-looking iMac, are you going to do some radically different products?
-A: There's a lot of talk about such things -- about handhelds, set-top boxes. A lot of computer companies have been searching for a consumer product. My view is that the personal computer has been the most successful consumer product of the last 10 years. What we have to do, what the industry stopped doing, is targeting [the consumer PC] sector of the market. IBM wants to be IBM. Dell is just selling to the corporate market, primarily. Compaq just bought DEC -- my God! There's nothing wrong with wanting to be IBM.
+A:关于这件事情有许多需要谈论的地方--关于手提式机顶盒。许多计算机公司已正在探索消费者产品，从我的观点看，个人电脑已是过去十年最成功的消费者产品，我们必须做而且行业已停止做的事情是瞄准市场上的消费者PC部分，IBM想一直是IBM，戴尔正在卖给主要企业市场，康柏电脑公司刚刚收购了dec公司--我的天啊，想成为IBM的公司没有什么不对的。
 
-But Apple really beats to a different drummer. I used to say that Apple should be the Sony of this business, but in reality, I think Apple should be the Apple of this business. Apple is certainly moving closer to doing that with these new products. Also, I've had some experience in the entertainment industry because of Pixar. And I've got to tell you, the Internet is a place you go when you want to turn your brain on, and a television is a place you go when you want to turn your brain off. I'm not at all convinced that the twain will meet.
 
-Q: The $1,299 price of the iMac, even competitive with sub-$1,000 PCs, is still not in the range of consumer electronics products.
-A: No PCs are in the price range. But people are seeing the value at these prices, and our goal is to continue to lower prices on products like iMac. Part of it relates to how much of a necessity you think these devices are. And a lot of people are starting to feel that having a personal computer, especially one that is able to deliver as robust an Internet experience as the iMac can in the home, is an essential utility. An iMac costs about as much as heating a New England home in the winter, a lot less than an automobile. We're not in the sweet spot totally, but we're getting there. For Apple, this is a pretty big step. Apple hasn't had a compelling product under $2,000 for the last several years.
-
-Q: Did you do consumer research on the iMac when you were developing it?
-A: No. We have a lot of customers, and we have a lot of research into our installed base. We also watch industry trends pretty carefully. But in the end, for something this complicated, it's really hard to design products by focus groups. A lot of times, people don't know what they want until you show it to them. That's why a lot of people at Apple get paid a lot of money, because they're supposed to be on top of these things.
-
-Q: Why did you decide against including an internal floppy drive and opt for a slower modem?
-A: You know, you've got to do the right thing. Just take the floppy: People aren't thinking clearly. Nobody's going to back up a 4-gigabyte drive onto 1-megabyte floppies. They'll use a Zip drive -- but they're too expensive to build into a consumer product. Besides, hardly anybody backs up anyway, so why build cost into every system? The second reason for a floppy is software distribution, but a lot of software now comes on CD-ROMs because it's better and cheaper [the iMac includes a CD-ROM drive].
 
 Q: How much of a role did you have in the design of the product?
 A: A fair bit. [Smiles] There were several teams. On a day-to-day basis, my job wasn't to head any of them. We have really talented people to do that. But when I got here last July, it took me about two weeks to figure out that Apple didn't have a consumer product in the pipe. I began a crash program in August to create one. We put together various teams.
