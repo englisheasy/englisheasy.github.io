@@ -1,6 +1,9 @@
 ## Steve Jobs: There's Sanity Returning
 
-1998年5月25日 GMT+8 12:00
+###### Andy Reinhardt
+###### Businessweek
+###### 1998年5月25日 GMT+8 12:00
+---
 
 Share this article
 
