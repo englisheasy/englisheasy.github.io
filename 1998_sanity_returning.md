@@ -26,26 +26,33 @@ Q:你为什么决定反对内部的软盘而选择缓慢的调制解调器？
 
 A:你知道，你问对了问题，仅使用软盘：人们没有清晰地思考过。没有人将备份4g的驱动到1m大小的软盘，他们将用zip驱动 - 但他们放入消费电子产品中是太昂贵的，而且，几乎没有任何人在任何情况下备份，所以，为什么要每个系统带来这些代价？关于软盘的第二个原因是软件分配，但许多软件现在出现在CD-ROMs中，因为它是更好且更便宜[iMac包含有CD-ROM驱动]
 
-Q: How much of a role did you have in the design of the product?
-A: A fair bit. [Smiles] There were several teams. On a day-to-day basis, my job wasn't to head any of them. We have really talented people to do that. But when I got here last July, it took me about two weeks to figure out that Apple didn't have a consumer product in the pipe. I began a crash program in August to create one. We put together various teams.
+问题：你在这个产品设计角色中起到了多大作用？
 
-Q: But you smiled when I asked the question. Do you feel this is your baby?
-A: We all feel like it's our baby. Everybody at Apple has a pride in it, because it represents what Apple ought to be doing. You expect this kind of innovation from Apple. Apple is getting back to that, and it's something we can all be proud of.
+回答：有一点。【微笑】有好几个团队。在日常生活中，我的工作不是领导他们中的任何一个。我们有很有才华的人来做这件事情。但是去年七月我来的时候，它让我花了两周的时间才明白苹果没有准备出消费类产品。我在八月份开始了一个速成项目来创建。我组建了来不同的团队
 
-Q: What are you doing about increasing the number of Mac software programs?
-A: Let's focus first on the real problem. Forget the perception. The real problem is that a lot of developers have had a really tough time dealing with Apple over the last few years. I talked to these folks. It wasn't even about the volume of Mac sales declining -- it was problems in dealing with Apple. We fixed almost all of that. The developers are coming back, and it feels really good. We haven't brought everybody back yet, but a lot of them.
+Q: 但是当我问这个问题时你笑了，你感觉这是你的孩子吗？
 
-Q: Are you going to take the CEO job permanently?
-A: There's nothing new to report. I just decided one day that for me, it just wasn't such a big deal. I didn't have to lose sleep over this, worry about this. I'm Apple's interim CEO, and it won't be forever, and I'm doing the best that I can. But I'm the full-time CEO of Pixar Animation Studios, and I love it, and I also have a family. I'm doing the best I can here. If folks think there's a better solution, I'll be glad to step aside. And eventually we'll find somebody else to take the reins.
+A:我们所有人感觉这是我们的孩子，在苹果的每个人对它很自豪，因为它呈现了苹果公司应该做的事情，你希望看到苹果的这种创新，苹果正在回到之前状态，那是我们所有人自豪的事情。
 
-Q: What about stock ownership? Do you intend to take a stake in the company?
-A: This isn't about money for me.
+问:你打算如何增加Mac软件程序的数量?
 
-Q: I'm talking about the symbolic value.
-A: That's not my problem. I've worked my tail off here. I don't think I could work any harder. I'm trying to help Apple. I do have more time now to be with my family. We've filled out our senior management team. We've got a good team now, and we're firing on all cylinders. And as the strategy becomes clearer to more of the people in the company, it really makes things much easier. The organization is clean and simple to understand, and very accountable. Everything just got simpler. That's been one of my mantras -- focus and simplicity. Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it's worth it in the end because once you get there, you can move mountains.
+答:让我们先把注意力集中在真正的问题上。忘记你的感知。真正的问题是，在过去的几年里，许多开发者在与苹果的合作中遇到了困难。我和这些人谈过了。这甚至不是Mac销量下降的问题，而是与苹果公司打交道的问题。我们几乎解决了所有问题。开发者们又回来了，这感觉真的很好。我们还没把所有人都带回来，但很多人都回来了。
 
-Q: There's a lot of symbolism to your return. Is that going to be enough to reinvigorate the company with a sense of magic?
-A: You're missing it. This is not a one-man show. What's reinvigorating this company is two things: One, there's a lot of really talented people in this company who listened to the world tell them they were losers for a couple of years, and some of them were on the verge of starting to believe it themselves. But they're not losers. What they didn't have was a good set of coaches, a good plan. A good senior management team. But they have that now.
+Q:你将一直担任公司CEO吗？
+
+A:这个问题之前说过，对于我来说，我仅一天就能做出决定，这不是什么大事情。关于这个问题，我没因为担心而睡不着觉，我是苹果公司这一时期的CEO，不是永久的CEO，我在尽我所能做好这件事情，但我是皮克斯动画工作室的全职CEO，我喜欢这个职位，我也有家庭，我正在这里做我能做的最好事情，如果人们有更好的方案，我将乐于退位，我们最终将找到其他一些人驾驭公司。
+
+Q:股份所有权呢？你倾向于获取公司的股份吗？
+
+A:对于我来说，这不是为了钱。
+
+问：我谈论关于象征的意义。
+
+答：那不是我的问题。我在这里已经忙得不可开交。我想我不能再努力了。我努力帮助苹果。我现在有更多的时间和家人在一起了。我们的高级管理团队已经填满了。我们现在有一个很好的团队，我们正在全速前进。随着公司里越来越多的人了解到公司的战略，事情就变得简单多了。该组织清晰易懂，而且非常负责。一切都变得更简单了。这是我的座右铭之一——专注和简单。简单可能比复杂更难:你必须努力让你的思维变得清晰，让它变得简单。但最终它是值得的，因为一旦你到达那里，你就可以移山。
+
+Q:你的回归有许多象征性的意义，那能够魔法般的重振公司吗？
+
+A:你说错了，这不是一个人能完成的，重振公司包含两方面:一，在公司里有许多优秀的人才，过去一些年听到外面人说他们是失败者，其中一些人正开始相信这是事实，实际上他们不是失败者，他们缺乏的事情是好的领导，好的计划，高级的管理团队，但现在他们有这些东西。
 
 So, the first thing to invigorating people is winning again. They're seeing us win, by the customer reactions to the products, by the sales, the profitability, all of those signs that people want what we've got again. And, that we can run our business well. That our own house is in order, that we've stopped the waste that people have seen with their own eyes without knowing what to do about it. There's sanity returning.
 
