@@ -54,12 +54,14 @@ Q:你的回归有许多象征性的意义，那能够魔法般的重振公司吗
 
 A:你说错了，这不是一个人能完成的，重振公司包含两方面:一，在公司里有许多优秀的人才，过去一些年听到外面人说他们是失败者，其中一些人正开始相信这是事实，实际上他们不是失败者，他们缺乏的事情是好的领导，好的计划，高级的管理团队，但现在他们有这些东西。
 
-So, the first thing to invigorating people is winning again. They're seeing us win, by the customer reactions to the products, by the sales, the profitability, all of those signs that people want what we've got again. And, that we can run our business well. That our own house is in order, that we've stopped the waste that people have seen with their own eyes without knowing what to do about it. There's sanity returning.
+所以，第一件事情就是去激励人们再次去赢。他们看到我们赢，通过客户在产品上的反应，通过销售，盈利能力，所有这些迹象都表明人们想要我们拥有的东西。并且，我们可以经营好我们的生意。我们自己的家也井然有序，我们阻止了人们亲眼所见却不知如何是好的浪费。有理智的回归。
 
-The second thing that's reinvigorating them is that Apple is starting to innovate again. There's been a vacuum in this industry for a long time, in many ways, and that vacuum is in a lot of areas where Apple's legacy is. So Apple is back to its roots, starting to innovate again, and people are sensing that, seeing it concretely, and really feeling good about it. That's why they came here. That's what they want to do. When they see the iMac, for example, they think we really can produce industry-leading products like this. It's not about charisma and personality, it's about results and products and those very bedrock things that are why people at Apple and outside of Apple are getting more excited about the company and what Apple stands for and what its potential is to contribute to the industry.
+重振他们的第二方面是苹果公司正开始再次创新，这个行业有很长一段时间在许多方面是一片空白，苹果公司留下的许多行业区域是空白的，所以苹果回到根基处，开始再次创新，人们开始意识到它，真正看见它，真正感觉那是不错的，这就是他们来这里的原因，那是他们想做的事情，当他们看见iMac，比如，他们认为我们真正能产生像这样引领行业的产品，这与领导魅力或个人性格没关系，与结果、产品和那些行业的十分底层事情有关，这使苹果公司员工和外面人们，对苹果公司、公司价值观和贡献行业的潜力十分兴奋的原因。
 
-Q: What's the coolest stuff you have coming down the product pipe?
-A: We have some pretty cool stuff coming, but we don't talk about it.
+问:你们推出的最酷的产品是什么?
 
-Q: Will they be computers?
-A: Yes. We're not going off into la-la land.
+A:我们有一些很酷的东西，但我们不谈论它。
+
+Q:它们会是计算机产品吗？
+
+A:是的，我们不想在洛杉矶散播出来。
