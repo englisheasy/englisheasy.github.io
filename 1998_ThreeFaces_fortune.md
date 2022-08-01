@@ -1,4 +1,4 @@
-# 乔布斯三副面孔
+# 独家采访:乔布斯的三面，苹果CEO在回转时期的反思，如何从一个神童到年老的专业人士
 
 ###### Interview Date: November 9, 1998
 ###### Publication：FORTUNE Magazine
