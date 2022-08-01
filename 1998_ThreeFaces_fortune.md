@@ -1,3 +1,11 @@
+# 乔布斯三副面孔
+
+###### Interview Date: November 9, 1998
+###### Publication：FORTUNE Magazine
+###### Interviewer：Brent Schlender
+###### [原文](https://archive.fortune.com/magazines/fortune/fortune_archive/1998/11/09/250880/index.htm)
+---
+
 The Three Faces Of Steve In this exclusive, personal conversation, Apple's CEO reflects on the turnaround, and on how a wunderkind became an old pro.
 (FORTUNE Magazine)
 By Brent Schlender; Steve Jobs
