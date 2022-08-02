@@ -6,8 +6,23 @@
 ###### [原文](https://archive.fortune.com/magazines/fortune/fortune_archive/1998/11/09/250880/index.htm)
 ---
 
-The Three Faces Of Steve In this exclusive, personal conversation, Apple's CEO reflects on the turnaround, and on how a wunderkind became an old pro.
-(FORTUNE Magazine)
-By Brent Schlender; Steve Jobs
-November 9, 1998
-(FORTUNE Magazine) – Well into the conversation with FORTUNE that you're about to read, Steve Jobs, the once and interim CEO of Apple Computer, professes to feel, at the wizened age of 43, no different from when he was a frisky 17-year-old. True to form, he contradicts himself a little later, confessing to be "an old man now." Those comments reveal as much about why Jobs has been able to pull off his prestidigital revival of Apple--his first and still greatest creation--as do his observations on his business strategies and actions of the past year.
+《财富》杂志，接下来你将读到财富杂志的对话，史蒂夫·乔布斯，苹果电脑的临时CEO坦言，在他干瘪的43岁，和他欢快的17岁没什么不同。一如既往，后来他又自相矛盾，承认自己“已经老了”。这些言论充分说明了为什么乔布斯能够成功地让苹果在数字领域重现辉煌，他的第一个也是最伟大的创造。他对过去一年的商业策略和行动的观察也是如此。
+
+他唤起了他那一代的悲情和完全形态，这就为什么乔布斯是最有影响力的商人和领袖。他毕竟是1960年代小孩，你还可能发现他在办公室光着脚，早餐吃苹果汁泡的格兰诺拉麦片，乔布斯也是一个成熟的婴儿潮出生的人，有印象的是异常的商业经历，加上他对学院的女儿和家里的三个孩子典型的操心。 Three Faces Of Steve In this exclusive, personal conversation, Apple's CEO reflects on the turnaround, and on how a wunderkind became an old pro.
+
+所以也难怪苹果，它仍然携带着史蒂夫的基因，并且一直是一种文化现象，就像电脑供应商一样，正在戏剧性地回应他明显的反传统，但微妙地更老练的领导。乔布斯的风格似乎也适用于他领导的另一家公司。皮克斯动画工作室(Pixar Animation Studios)，一个将硅谷的股票期权、严格的技术和电影行业的异想天开的创造力融合在一起的地方。
+
+听乔布斯谈论他的公司和个人生活，他能告诉你，在超过二十年里，他相信已最终找到主宰一些事情的规律，包括:用户技术主导者，成熟的首席执行官，实际上也是文化改革者，这些被命名为乔布斯的三副面孔。
+
+朋友、竞争对手，甚至曾经的敌人都认为，乔布斯的善变风格中有很多功能失调的地方都被他挤出去了。听一听营销大师里吉斯•麦肯纳的说法吧。20年前，他向史蒂夫展示了高科技推广的诀窍:史蒂夫已经成熟了。你知道我怎么看出来的吗?回到苹果后，他向很多人寻求建议，并认真听取他们的意见。他从错误中吸取了教训。你还能给他更好的荣誉吗?”
+
+John Sculley对此评价如何，他作为前苹果CEO在1985年把乔布斯赶出了公司:"回转过来不是意外的，这和将来是有关的，乔布斯已经做了一个绝对能意识到的工作，就是把苹果扭转成为他一直想要的状态。
+
+如果说乔布斯有一个新的平衡点，那可能很大程度上是因为他的两家公司非常不同，需要正交技能。甲骨文公司创始人兼首席执行官拉里·埃里森是苹果公司的董事，也是乔布斯的密友，他说:“皮克斯对史蒂夫来说是件好事，因为尽管他基本上是公司的所有者，但他不是公司电影的所有者或创作者，他知道这一点。在苹果，情况正好相反。他只拥有苹果公司的一股股票，但他显然拥有苹果公司的产品和理念。Mac是他创造力的体现，而整个苹果是史蒂夫的体现。这就是为什么尽管他的头衔是‘临时’，但他会在苹果公司待很长一段时间。”
+
+乔布斯喜欢挑战计算机行业的主流市场，这是乔布斯留在苹果的另一个原因。过去，乔布斯和联合创始人沃兹使用开创性的个人电脑苹果2搅浑了大铁框电脑市场，迷人的麦金塔电脑是乔布斯最有名的孩子，尝试性地阻止了无趣的IBM电脑主导的增长势头，包括相关衍生的系列产品。现在，iMac和其他时髦且网络友好的机器确实来了，乔布斯正在重新开始对不优美的，过分复杂的以及米黄无味的计算机电脑发动战争。一旦成为狂热者，始终是狂热者。
+
+但是，也许是时代变了，而不是史蒂夫变了。如今，计算机是所有消费电子产品中最畅销的产品。在新买家中，有相当一部分是不愿消费的人，他们在孩子的压力下，或者是对价格暴跌的反应，终于做好了数字化的准备。史蒂夫对风格、简洁和易用性的痴迷可能很适合他们。
+
+他作为老板容易发怒的事情还是很多，在苹果公司，他管理所有产品线、市场甚至自助食堂(他替换了老的餐饮公司，使用了Il Fornaio，Palo Alto饮食店的前任经理管理的整套装备。正如您在随后的采访中所看到的那样，他仍然无法言辞。英特尔主席安迪是乔布斯长期敬仰的人，可能他说得最恰当:"乔布斯总是乔布斯，仅仅改变的事情是他的头发减少了"。
+
