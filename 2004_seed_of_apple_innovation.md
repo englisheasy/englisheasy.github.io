@@ -1,3 +1,12 @@
+# 苹果创新的基因
+
+###### Interview Date: 2004
+###### Publication：Bloomberg
+###### Interviewer：Peter Burrows
+###### [原文](https://www.bloomberg.com/news/articles/2004-10-11/the-seed-of-apples-innovation)
+---
+
+
 This is Google's cache of https://www.bloomberg.com/news/articles/2004-10-11/the-seed-of-apples-innovation. It is a snapshot of the page as it appeared on 5 Oct 2022 09:01:39 GMT. 
 
 The Seed of Apple's Innovation
