@@ -1,5 +1,6 @@
 ## 翻译索引
 
+- [苹果创新的基因](2004_seed_of_apple_innovation.md)
 - [乔布斯：2003年滚石乐队采访](2003_rollingstone.md)
 - [苹果年薪一美元的员工_2000_fortune](2000_One-Dollar-a-Year-Man.md)
 - [乔布斯: 三副面孔_1998_fortune](1998_ThreeFaces_fortune.md)
