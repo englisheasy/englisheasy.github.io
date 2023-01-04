@@ -1,6 +1,6 @@
 ## 翻译索引
 
-– [乔布斯关于iTunes音乐商店的采访](2011_unpublished_interview.md）
+- [乔布斯关于iTunes音乐商店的采访](2011_unpublished_interview. md)
 - [乔布斯访谈](2008_Speaks_Out.md)
 - [对灵魂有益](2006_good_for_soul.md)
 - [苹果创新的基因](2004_seed_of_apple_innovation.md)
