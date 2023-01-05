@@ -1,5 +1,3 @@
-Steve Jobs: 1984 Access Magazine Interview
-
 # 乔布斯：1984 Access杂志采访
 
 ###### Interview Date: 1984
