@@ -3,6 +3,6 @@
 ###### Interview Date: 1985
 ###### Publication：playboy Magazine
 ###### Interviewer：David Sheff
-###### [原文]（https://allaboutstevejobs.com/verbatim/interviews/playboy_1985)
+###### [原文](https://allaboutstevejobs.com/verbatim/interviews/playboy_1985)
 ---
 
