@@ -10,5 +10,6 @@
 - [乔布斯: 三副面孔_1998_fortune](1998_ThreeFaces_fortune.md)
 - [乔布斯：理智回归_1998_bloomberg](1998_sanity_returning.md)
 - [乔布斯：下一个疯狂伟大的事情](Steve_Jobs_The_Next_Insanely_Great_Thing.md)
-- [乔布斯: 重启苹果 1997](1997_restart_apple.md)
+- [乔布斯: 重启苹果_1997](1997_restart_apple.md)
+– [乔布斯: 花花公子采访_1985](1985_playboy_interview.md)
 - [乔布斯: Access杂志采访](1984_AccessMagazine.md)
