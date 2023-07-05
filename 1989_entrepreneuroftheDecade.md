@@ -1,4 +1,4 @@
-# 十年企业家的乔布斯采访
+# 十年企业家：乔布斯采访
 
 ###### Interview Date: 1989
 ###### Publication：Inc. magazine
