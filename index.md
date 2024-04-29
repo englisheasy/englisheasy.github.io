@@ -2,6 +2,7 @@
 
 
 - [2011年乔布斯关于iTunes音乐商店的采访](2011_unpublished_interview.md)
+- [2010年乔布斯在D8直播](2010_liveD8.md)
 - [2008年乔布斯访谈](2008_Speaks_Out.md)
 - [2007年D5采访比尔盖茨和乔布斯](2007_D5_steveAndBill.md)
 - [2006年对灵魂有益](2006_good_for_soul.md)
